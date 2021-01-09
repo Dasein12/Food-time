@@ -9,4 +9,4 @@ Parallax\
 Reveal\
 Social Media Ready\
 Google Maps\
-Booking place\
+Booking place
